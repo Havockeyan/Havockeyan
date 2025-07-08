@@ -8,7 +8,7 @@ I'm a Software Developer from India with **2 years of professional experience**.
     <img src="https://skillicons.dev/icons?i=java,html,css,js,react,sql,mongodb" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,gitlab,github,linux,mint,ubuntu,debian,arch,dart,flutter&theme=dark&perline=15)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,gitlab,github,linux,mint,ubuntu,debian,arch,dart,flutter&theme=dark&perline=15)
 
 ---
 * 🔭 I’m currently working on **[ipmailsender](https://github.com/Havockeyan/ipmailsender)** - a tool to send email notifications when an IP address changes.
