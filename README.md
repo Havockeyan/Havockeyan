@@ -3,13 +3,7 @@
 I'm a **Software Developer** from India with **2 years of professional experience**. My core expertise lies in building robust applications with **Java** and managing databases with **SQL**. I also have hands-on experience in **server monitoring** to ensure system stability and performance. 
 
 ---
- <p align="center"><img src="images/sololeveling.gif" alt="Animated showcase" height="160" /> </p>  
-
-<p align="center">
-    <img src="images/4207c0746f7575f.png" alt="Showcase 1" height="160" style="margin: 0 80px;" />
-    <img src="images/8ef3a436b8ad7b1.png" alt="Showcase 2" height="160" style="margin: 0 80px;" />
-</p>
-
+ <p align="center"><img src="images/sololeveling.gif" alt="Animated showcase" height="160" /> </p> 
 ---
 
 ## My Tech Stack 💻
